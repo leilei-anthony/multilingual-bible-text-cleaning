@@ -9,3 +9,4 @@ The project focuses on:
 - `source-files/` – Contains the original full Bible file.
 - `raw-files/` – Extracted raw versions of Genesis, Exodus, and Numbers.
 - `processed-files/` – Cleaned and segmented versions of each book.
+- `demo-videos` – Demo videos of performing cleaning and segmentation steps.
